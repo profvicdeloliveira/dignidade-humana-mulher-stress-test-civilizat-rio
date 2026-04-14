@@ -73,7 +73,7 @@ Este repositório tem por finalidade:
 
 ## Como citar
 
-OLIVEIRA, Vicente de Paulo Silva. *A dignidade humana da mulher como stress test civilizatório: bioconstitucionalismo, Untermassverbot, a Polícia Judiciária como anteparo constitucional, e a superação do litimus test pelo Estado Democrático de Direito*. 2026. Disponível em: [inserir DOI]. Acesso em: [data de acesso].
+OLIVEIRA, Vicente de Paulo Silva. *A dignidade humana da mulher como stress test civilizatório: bioconstitucionalismo, Untermassverbot, a Polícia Judiciária como anteparo constitucional, e a superação do litimus test pelo Estado Democrático de Direito*. 2026. Disponível em: [ihttps://doi.org/10.5281/zenodo.19561097]. Acesso em: [data de acesso].
 
 ---
 
