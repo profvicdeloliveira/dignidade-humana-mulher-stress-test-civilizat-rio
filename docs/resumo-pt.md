@@ -1,0 +1,7 @@
+# Resumo
+
+O presente artigo empreende um rigoroso inquérito da dignidade da pessoa humana, adotando a condição feminina como seu stress test civilizatório definitivo. A partir da arqueologia da “morte civil” da mulher — dos Códigos de Ur-Nammu ao Código Napoleônico e seus derivados — demonstra-se que a pretensa universalidade dos direitos operou sob crônica assimetria de gênero, ancorada no aristotelismo da derivação feminina. Em contraposição, o estudo promove reversão ontológica fundada na embriologia clínica e na genética molecular, evidenciando a primazia da matriz bipotencial feminina e a herança matrilinear da humanidade.
+
+Sob a epígrafe do Bioconstitucionalismo e respaldando-se na Teoria Tridimensional do Direito, sustenta-se que a norma deve curvar-se à realidade material, substituindo a igualdade formal pela equidade material distributiva (Untermassverbot). Examina-se a materialização dessa proteção afirmativa na práxis corretiva brasileira contemporânea (2023–2026), mediante legislação, projetos normativos, doutrina especializada, decisões das Cortes Superiores e resoluções do Conselho Nacional de Justiça.
+
+No plano da objetividade geral, demonstra-se a persistente generificação seletiva e deliberada da Dignidade Humana sob perspectiva androcêntrica. No plano da objetividade específica, revela-se a atual e avançada fase de implementação de uma Dignidade Humana verdadeiramente universal pelo Estado Democrático de Direito. Emprega-se método lógico-dedutivo, histórico, hermenêutico, dogmático-jurídico e analítico-propositivo.
