@@ -38,7 +38,7 @@ dignidade-da-mulher/
 ├── LICENSE
 │
 ├── src/
-│   ├── artigo.pdf       (PDF/A do artigo completo)
+│   ├── artigo.pdf       (src/Oliveira_DignidadeMulher_v1.0.0_2026.pdf)
 │   ├── artigo.md        (versão markdown estruturada)
 │   └── referencias.bib  (BibTeX completo do artigo)
 │
