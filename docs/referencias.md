@@ -1,4 +1,4 @@
-# Referências
+# Referências - observação técnica do autor: ainda em curadoria para perfeita auditabilidade
 
 ALBERTS, Bruce et al. *Biologia Molecular da Célula*. 6. ed. Porto Alegre: Artmed, 2017. ISBN: 978-8582714232.
 
