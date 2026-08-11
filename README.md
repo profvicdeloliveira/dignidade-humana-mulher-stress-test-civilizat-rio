@@ -50,5 +50,20 @@ dignidade-da-mulher/
     ├── resumo-pt.md
     ├── abstract-en.md
     ├── resumen-es.md
+
+---
+
+Copyright © 2026 Vicente de Paulo Silva e Oliveira
+All Rights Reserved.
+
+Nenhum parte desta obra pode ser reproduzida, distribuída,
+transmitida, exibida, publicada ou transmitida por qualquer meio,
+seja eletrônico, mecânico, fotocópia, gravação ou outro,
+sem a permissão prévia e por escrito do autor,
+conforme o disposto na Lei nº 9.610/98 (Lei de Direitos Autorais)
+e na Convenção de Berna.
+
+Para solicitações de uso, citação acadêmica ou reprodução parcial,
+contatar: profvicdeloliveira@gmail.com
     ├── apresentação-slides.pdf
     └── sumário-estruturado.md
