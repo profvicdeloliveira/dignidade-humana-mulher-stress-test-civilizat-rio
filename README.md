@@ -50,7 +50,9 @@ dignidade-da-mulher/
     ├── resumo-pt.md
     ├── abstract-en.md
     ├── resumen-es.md
+    └── sumário-estruturado.md
 
+## **LICENSE**
 ---
 
 Copyright © 2026 Vicente de Paulo Silva e Oliveira
@@ -65,5 +67,3 @@ e na Convenção de Berna.
 
 Para solicitações de uso, citação acadêmica ou reprodução parcial,
 contatar: profvicdeloliveira@gmail.com
-    ├── apresentação-slides.pdf
-    └── sumário-estruturado.md
